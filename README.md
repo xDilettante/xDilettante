@@ -1,7 +1,5 @@
 ## Hi 👋 Привет
 
-<iframe src="https://yoomoney.ru/quickpay/fundraise/widget?billNumber=150QL9K10VF.240902&" width="500" height="480" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
-<iframe src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=150QPH0GIOQ.240902&" width="330" height="50" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 <!--
 **xDilettante/xDilettante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
